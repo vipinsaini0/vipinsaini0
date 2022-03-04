@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👨‍💻 All of my projects are available at [www.vipinsaini0.com](www.vipinsaini0.com)
+- 👨‍💻 All of my projects are available at [vipinsaini0.com](https://www.vipinsaini0.com)
 
 - 📫 How to reach me **vipinsaini0.me@gmail.com**
   <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" width="300" height="192" />
