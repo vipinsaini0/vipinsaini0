@@ -1,11 +1,6 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Vipin Saini</h1>
 <h3 align="left">iOS Developer from India <img src="https://c4.wallpaperflare.com/wallpaper/864/174/449/indian-flag-4k-tricolour-flag-national-flag-wallpaper-preview.jpg" width="25px"></h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinsaini0&label=Profile%20views&color=0e75b6&style=flat" alt="vipinsaini0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipinsaini0" alt="vipinsaini0" /></a> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinsaini0&label=Profile%20views&color=0e75b6&style=flat" alt="vipinsaini0" /> </p>
  
 <p align="left"> <a href="https://twitter.com/vipinsaini0" target="blank"><img src="https://img.shields.io/twitter/follow/vipinsaini0?logo=twitter&style=for-the-badge" alt="vipinsaini0" /></a> </p>
