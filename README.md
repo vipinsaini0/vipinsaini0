@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinsaini0&label=Profile%20views&color=0e75b6&style=flat" alt="vipinsaini0" /> </p>
  
 <p align="left"> <a href="https://twitter.com/vipinsaini0" target="blank"><img src="https://img.shields.io/twitter/follow/vipinsaini0?logo=twitter&style=for-the-badge" alt="vipinsaini0" /></a> </p>
-
+ <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" width="300" height="192" />
 - 🔭 I’m currently working on **Hotel Booking App**
 
 - 🌱 I’m currently learning **SwiftUI**
@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [vipinsaini0.com](https://www.vipinsaini0.com)
 
 - 📫 How to reach me **vipinsaini0.me@gmail.com**
-  <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" width="300" height="192" />
+ 
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
