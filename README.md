@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Vipin Saini</h1>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vipin Saini</h1>
 <h3 align="left">iOS Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinsaini0&label=Profile%20views&color=0e75b6&style=flat" alt="vipinsaini0" /> </p>
