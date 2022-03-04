@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [www.vipinsaini0.com](www.vipinsaini0.com)
 
 - 📫 How to reach me **vipinsaini0.me@gmail.com**
-  <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" width="300" height="320" />
+  <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" width="300" height="192" />
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
