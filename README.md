@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Vipin Saini</h1>
-<h3 align="left">iOS Developer from India <img src="https://gifscenter.com/wp-content/uploads/2017/05/animated%20Indian%20Flag%20free%20download%20for%20PC%20and%20Mobile%20Phones.gif" width="35px"></h3>
+<h3 align="left">iOS Developer from India <img src="https://www.pngfind.com/pngs/m/21-211631_the-indian-flag-png-indian-flag-icon-transparent.png" width="35px"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinsaini0&label=Profile%20views&color=0e75b6&style=flat" alt="vipinsaini0" /> </p>
  
