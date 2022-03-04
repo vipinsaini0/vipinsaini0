@@ -15,6 +15,10 @@
 
 - 📫 How to reach me **vipinsaini0.me@gmail.com**
 
+
+ <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" width="500" height="320" />
+ 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vipinsaini0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipinsaini0" height="30" width="40" /></a>
