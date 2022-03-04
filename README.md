@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vipin Saini</h1>
-<h3 align="center">iOS Developer from India</h3>
+<h1 align="left">Hi 👋, I'm Vipin Saini</h1>
+<h3 align="left">iOS Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinsaini0&label=Profile%20views&color=0e75b6&style=flat" alt="vipinsaini0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipinsaini0" alt="vipinsaini0" /></a> </p>
-
+ 
 <p align="left"> <a href="https://twitter.com/vipinsaini0" target="blank"><img src="https://img.shields.io/twitter/follow/vipinsaini0?logo=twitter&style=for-the-badge" alt="vipinsaini0" /></a> </p>
 
 - 🔭 I’m currently working on **Hotel Booking App**
