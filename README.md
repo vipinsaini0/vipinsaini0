@@ -4,6 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinsaini0&label=Profile%20views&color=0e75b6&style=flat" alt="vipinsaini0" /> </p>
  
 <p align="left"> <a href="https://twitter.com/vipinsaini0" target="blank"><img src="https://img.shields.io/twitter/follow/vipinsaini0?logo=twitter&style=for-the-badge" alt="vipinsaini0" /></a> </p>
+
+<script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/FollowCompany" data-id="0000" data-counter="bottom"></script>
+
+<p align="left"> <a href="https://linkedin.com/in//vipinsaini0/" target="blank"><img src="https://img.shields.io/twitter/follow/vipinsaini0?logo=twitter&style=for-the-badge" alt="vipinsaini0" /></a> </p>
+
  <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" width="400" height="256" />
 - 🔭 I’m currently working on **Hotel Booking App**
 
