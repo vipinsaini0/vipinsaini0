@@ -5,6 +5,7 @@
  
 <p align="left"> <a href="https://twitter.com/vipinsaini0" target="blank"><img src="https://img.shields.io/twitter/follow/vipinsaini0?logo=twitter&style=for-the-badge" alt="vipinsaini0" /></a> </p>
 
+<div class="sharethis-inline-follow-buttons"></div>
 <h> <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=6228d664a9cb560012eb9325&product=inline-follow-buttons" async="async"></script> </h>
 
  <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" width="400" height="256" />
