@@ -4,8 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinsaini0&label=Profile%20views&color=0e75b6&style=flat" alt="vipinsaini0" /> </p>
  
 <p align="left"> <a href="https://twitter.com/vipinsaini0" target="blank"><img src="https://img.shields.io/twitter/follow/vipinsaini0?logo=twitter&style=for-the-badge" alt="vipinsaini0" /></a> </p>
-
-<p align="left"> <img src="https://platform-api.sharethis.com/js/sharethis.js#property=6228d664a9cb560012eb9325&product=inline-follow-buttons" alt="/vipinsaini0/" /> </p>
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
 
 <div class="sharethis-inline-follow-buttons"><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=6228d664a9cb560012eb9325&product=inline-follow-buttons" async="async"></div>
  
