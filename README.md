@@ -8,6 +8,7 @@
  <a href="https://app.daily.dev/vipinsaini0"><img src="https://api.daily.dev/devcards/148808868ff6407fb05e485aaa954169.png?r=6g3" width="250" alt="Vipin Saini's Dev Card"/></a>
 </p>
  <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" width="400" height="256" />
+ <p align="left">
 - 🔭 I’m currently working on **Hotel Booking App**
 
 - 🌱 I’m currently learning **SwiftUI**
@@ -15,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [vipinsaini0.com](https://www.vipinsaini0.com)
 
 - 📫 How to reach me **vipinsaini0.me@gmail.com**
- 
+ </p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
