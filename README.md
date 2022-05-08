@@ -8,7 +8,7 @@
 <!-- Dev Card -->
 <p align="right">
   <br>  <br> 
-<a href="https://app.daily.dev/vipinsaini0"><img align="right" src="https://api.daily.dev/devcards/148808868ff6407fb05e485aaa954169.png?r=aej" width="240" alt="Vipin Saini's Dev Card"/></a>
+<a href="https://app.daily.dev/vipinsaini0"><img align="right" src="https://api.daily.dev/devcards/148808868ff6407fb05e485aaa954169.png?r=euc" width="240" alt="Vipin Saini's Dev Card"/></a>
  </p> 
 - 🔭 I’m currently working on **Hotel Booking App**
 
