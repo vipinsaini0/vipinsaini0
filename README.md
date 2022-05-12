@@ -10,11 +10,17 @@
   <br>  <br> 
 <a href="https://app.daily.dev/vipinsaini0"><img align="right" src="https://api.daily.dev/devcards/148808868ff6407fb05e485aaa954169.png?r=euc" width="240" alt="Vipin Saini's Dev Card"/></a>
  </p> 
-- 🔭 I’m currently working on **Hotel Booking App**
+
+- 🔭 I’m currently actively looking a new role.
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👨‍💻 All of my projects are available at [vipinsaini0.com](https://www.vipinsaini0.com)
+- I've 7 years of experience in iOS.
+  - 5 years of experience in Objective-C. (2015 - 2020)
+  - 5 years of experience in Swift. (2017 - current)
+  - 8 months of experience in SwiftUI. (2021 - current)
+
+- 👨‍💻 All of my projects are available at [vipinsaini0.com](https://www.vipinsaini0.com/all-projects)
 
 - 📫 How to reach me **vipinsaini0.me@gmail.com**
  
