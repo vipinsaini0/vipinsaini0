@@ -20,7 +20,7 @@
   - 5 years of experience in Swift. (2017 - current)
   - 8 months of experience in SwiftUI. (2021 - current)
 
-- 👨‍💻 All of my projects are available at [vipinsaini0.com](https://www.vipinsaini0.com/all-projects)
+- 👨‍💻 All of my projects detail are available at [vipinsaini0.com](https://www.vipinsaini0.com/all-projects)
 
 - 📫 How to reach me **vipinsaini0.me@gmail.com**
  
