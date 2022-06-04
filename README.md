@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋🏼, I'm Vipin Saini</h1>
-<h3 align="left">iOS Developer from India <img src="https://c4.wallpaperflare.com/wallpaper/864/174/449/indian-flag-4k-tricolour-flag-national-flag-wallpaper-preview.jpg" width="25px"></h3>
+<h3 align="left">iOS Developer from India 🇮🇳</h3>
 <!--   <img alt="GIF" align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" width="300" height="256" /> -->
 
 <!-- Twitter -->
