@@ -13,7 +13,8 @@
 
 - 🔭 I’m currently actively looking a new role.
 
-- 🌱 I’m currently learning **SwiftUI**.
+- 🌱 I’m currently learning **SwiftUI** and **Flutter**.
+
 
 - I've 7 years of experience in iOS.
   - 5 years of experience in Objective-C. (2015 - 2020)
