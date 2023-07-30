@@ -16,10 +16,10 @@
 - 🌱 I’m currently learning **SwiftUI** and **Flutter**.
 
 
-- I've 7 years of experience in iOS.
-  - 5 years of experience in Objective-C. (2015 - 2020)
-  - 5 years of experience in Swift. (2017 - current)
-  - 8 months of experience in SwiftUI. (2021 - current)
+- I've 8 years of experience in iOS.
+  - 4 years of experience in Objective-C. (2015 - 2020)
+  - 6 years of experience in Swift. (2017 - current)
+  - 1.5 years of experience in SwiftUI. (2021 - current)
 
 - 👨‍💻 All of my project's detail are available at [vipinsaini0.com](https://www.vipinsaini0.com/all-projects)
 
