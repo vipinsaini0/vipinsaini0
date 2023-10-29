@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋🏼, I'm Vipin Saini</h1>
-<h3 align="left">iOS Developer from India 🇮🇳</h3>
+<h3 align="left">iOS Developer from Bharat (India) 🇮🇳</h3>
 <!--   <img alt="GIF" align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" width="300" height="256" /> -->
 
 <!-- Twitter -->
