@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently actively looking a new role.
 
-- 🌱 I’m currently learning **SwiftUI** and **Flutter**.
+- 🌱 I’m currently learning **Google PMP** and **Flutter**.
 
 
 - I've 8 years of experience in iOS.
   - 4 years of experience in Objective-C. (2015 - 2020)
   - 6 years of experience in Swift. (2017 - current)
-  - 1.5 years of experience in SwiftUI. (2021 - current)
+  - 2 years of experience in SwiftUI. (2021 - current)
 
 - 👨‍💻 All of my project's detail are available at [vipinsaini0.com](https://www.vipinsaini0.com/all-projects)
 
